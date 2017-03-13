@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+/Users/Xem/JavaSpringPrecourse/cne-precourse-drills/.metadata/.plugins/org.eclipse.jdt.core
