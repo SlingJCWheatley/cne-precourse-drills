@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by SlingJCWheatley on 3/12/17.
  */
-interface Addressable {
+public interface Addressable {
     List<Address> getAddresses();
     void addAddress(Address addAddress);
 }
